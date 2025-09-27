@@ -7,4 +7,5 @@ This is exactly what I focused on in this project. The model achieved very high 
 In order to show how my models performs in real life scenario, I created my recording:
 [recording.wav](https://github.com/user-attachments/files/22575471/recording.wav)
 
-
+Here are the results:
+<img width="2638" height="1625" alt="LSTM - results" src="https://github.com/user-attachments/assets/862f7b24-9f2d-418c-a45d-28fd14afe1b2" />
