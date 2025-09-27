@@ -2,4 +2,9 @@
 
 The goal of this project was to create an LSTM neural network model that, by memorizing long-term and short-term dependencies in an audio sequence,
 is able to determine, among other things, the gender of a given person depending on the available training data.
-This is exactly what I focused on in this project.
+This is exactly what I focused on in this project. The model achieved very high results on accuracy score and was significantly minimized in terms of loss during training.
+
+In order to show how my models performs in real life scenario, I created my recording:
+[recording.wav](https://github.com/user-attachments/files/22575471/recording.wav)
+
+
